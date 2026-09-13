@@ -62,7 +62,6 @@ You can view the live preview of the project [here](https://syn-code-one.vercel.
 
 ## 👤 Author
 
-**Shivam Lahoty**
-Manipal Institute of Technology
+**Shivam Lahoty** — Manipal Institute of Technology
 
 Repository: [github.com/ShivamLahoty/SynCode](https://github.com/ShivamLahoty/SynCode)
